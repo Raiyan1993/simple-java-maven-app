@@ -19,12 +19,12 @@
     <repository>
       <id>central</id>
       <name>d9b5edaeb716-releases</name>
-      <url>http://34.126.71.230:8081/artifactory/test-maven-repo</url>
+      <url>http://34.126.71.230:8082/ui/native/test-maven-repo</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
       <name>d9b5edaeb716-snapshots</name>
-      <url>http://34.126.71.230:8081/artifactory/test-maven-repo</url>
+      <url>http://34.126.71.230:8082/ui/native/test-maven-repo</url>
     </snapshotRepository>
   </distributionManagement>
   <properties>
